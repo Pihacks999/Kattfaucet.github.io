@@ -15,8 +15,8 @@
 <body>
     <?php
     // Specify your DuinoCoin wallet address and password
-    $wallet_address = 'USERNAME';
-    $wallet_password = 'PASSWORD';
+    $wallet_address = 'katfaucet';
+    $wallet_password = 'cheese';
 
     // Specify the minimum and maximum payout amount in Duco
     $min_payout = 0.1;
